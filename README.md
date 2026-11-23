@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @muskoida
-- 👀 I’m interested in creating new games
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on new ideas
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-muskoida/muskoida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Building Things for the Web
+
+**Independent web projects · Games · Tools · Experiments**
+
+I enjoy turning simple ideas into interactive web experiences. From browser-based games to practical online tools, I'm always exploring ways to make the web a little more useful and entertaining.
+
+---
+
+### What I'm Working On
+
+- 🎮 Browser games & word puzzles
+- 🛠️ Interactive tools & calculators
+- 💡 New ideas & web experiments
+
+### Featured Project
+
+🧩 **[PlayCrosswords.org](https://playcrosswords.org)**
+
+Crossword games, word puzzles and helpful solving tools.
+
+---
+
+*Keep building. Keep experimenting.*
